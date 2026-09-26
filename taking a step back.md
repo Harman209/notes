@@ -5,7 +5,7 @@ date: "{{date}} {{time}}"
 tags:
   - jee
   - cs
-published: false
+published: true
 ---
 i've been thinking of this alot lately and i have decided to take a step back from building software and exploring the field of computer science and ai. 
 
